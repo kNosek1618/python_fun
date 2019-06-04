@@ -28,3 +28,11 @@ phrase = "going to"
 sentence = ( phrase + " clean code!")
 print (sentence.index("i"))
 
+print ("")
+
+#replace words or letter
+phrase = "going to"
+sentence = ( phrase + " clean code!")
+print (sentence.replace("clean", "small"))
+
+
